@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "co.splitease.splitease",
+      "sha256_cert_fingerprints": [
+        "1B:73:BD:A0:D6:28:00:B2:F4:6B:5A:09:CE:0E:0C:FC:9A:70:75:E7:A6:C7:3F:07:79:81:FD:23:B0:93:F9:67"
+      ]
+    }
+  }
+]
