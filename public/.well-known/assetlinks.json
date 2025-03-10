@@ -18,5 +18,15 @@
         "77:00:EA:4F:A4:C2:16:81:7B:1E:84:D5:E8:FB:5E:1E:D2:77:6C:89:44:8B:09:AF:68:24:D3:B7:64:E0:70:D7"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "co.splitease.splitease",
+      "sha256_cert_fingerprints": [
+        "AA:D5:32:C5:C0:0B:C7:8D:85:A6:0D:AB:53:37:A2:DD:E1:EE:22:2A:B8:86:6D:48:B5:4F:25:18:57:E2:F6:AE"
+      ]
+    }
   }
 ]
